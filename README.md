@@ -37,3 +37,4 @@ KPIs:
 Excel – Data cleaning, analysis, pivot tables, charts, and dashboard design
 
 #### Dashboard
+![Dashboard Preview](./Dashboard.png)
