@@ -34,7 +34,9 @@ KPIs:
 - Item Type
 
 #### 🛠 Tech Stack
-Excel – Data cleaning, analysis, pivot tables, charts, and dashboard design
+- Excel (Analysis, pivot tables, charts, and dashboard design)
+- Data Cleaning & Transformation within Excel
+- Visualization: Area, Bar, Donut, Funnel, Slicers
 
 #### Dashboard
 ![Dashboard Preview](./Dashboard.png)
