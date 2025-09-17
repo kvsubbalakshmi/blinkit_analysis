@@ -1,9 +1,9 @@
 # Blinkit Sales Analysis
 
-#### 📌 Project Overview:
+### 📌 Project Overview:
 This project is an interactive Excel dashboard that provides insights into Blinkit’s sales performance. It covers key sales metrics and visualizations to help understand product performance, customer preferences, and outlet trends.
 
-#### 🎯 Business Problem:
+### 🎯 Business Problem:
 Blinkit generates huge amounts of sales data across different outlets, product categories, and regions. However, without proper analysis, it is difficult to:
 - Identify which products contribute most to sales
 - Understand the impact of fat content and item types on revenue
@@ -12,12 +12,9 @@ Blinkit generates huge amounts of sales data across different outlets, product c
   
 This dashboard solves the problem by providing a single view of key metrics and visual insights for decision-making.
 
-#### 📊 Key Features / KPIs
-KPIs:
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
+### 📊 Key Features / KPIs
+##### KPIs:
+- Total Sales, Average Sales, Number of Items, Average Rating
 
 ##### Charts & Visuals:
 - Donut Chart: Fat Content vs Total Sales
@@ -29,14 +26,12 @@ KPIs:
 - Clustered Bar: Outlet Type vs Total Sales, Average Sales, Item Count
 
 ##### Slicers:
-- Outlet Size
-- Outlet Location
-- Item Type
+- Outlet Size, Outlet Location, Item Type
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 - Excel (Analysis, Pivot Tables, Charts, Dashboard Design)
 - Data Cleaning & Transformation within Excel
 - Visualization: Area, Bar, Donut, Funnel, Slicers
 
-#### Dashboard
+### Dashboard
 ![Dashboard Preview](./Dashboard.png)
