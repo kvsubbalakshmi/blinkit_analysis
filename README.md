@@ -9,8 +9,8 @@ Blinkit generates huge amounts of sales data across different outlets, product c
 - Understand the impact of fat content and item types on revenue
 - Compare sales performance across outlet sizes, locations, and types
 - Track overall sales growth trends over time
-
-- This dashboard solves the problem by providing a single view of key metrics and visual insights for decision-making.
+  
+This dashboard solves the problem by providing a single view of key metrics and visual insights for decision-making.
 
 #### 📊 Key Features / KPIs
 KPIs:
